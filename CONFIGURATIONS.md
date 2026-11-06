@@ -1,4 +1,4 @@
-# Configurations – VLAN et trunk 802.1Q (partie C)
+# Configurations – VLAN répartis sur deux switchs avec trunk 802.1Q
 
 Configuration complète de chaque équipement, exportée depuis le fichier Packet Tracer.
 Les mots de passe et numéros de série sont masqués ; les interfaces sans configuration sont omises.

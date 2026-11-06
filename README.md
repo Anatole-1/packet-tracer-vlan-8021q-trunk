@@ -1,6 +1,6 @@
-# VLAN répartis sur deux switchs avec trunk 802.1Q – Contrôle réseaux (partie C)
+# VLAN répartis sur deux switchs avec trunk 802.1Q – Cisco Packet Tracer
 
-Contrôle de réseaux réalisé à l'ESAIP (IR3), partie C : deux VLAN (Étudiants / Enseignants) répartis sur deux switchs Cisco 2960, reliés par un lien trunk 802.1Q qui ne laisse passer que les VLAN autorisés.
+Deux VLAN (Étudiants / Enseignants) répartis sur deux switchs Cisco 2960, reliés par un lien trunk 802.1Q qui ne laisse passer que les VLAN autorisés.
 
 ![Packet Tracer](https://img.shields.io/badge/Cisco-Packet%20Tracer%208.2-1BA0D7?logo=cisco&logoColor=white)
 ![Switching](https://img.shields.io/badge/Switching-VLAN%20%2F%20802.1Q-informational)
@@ -62,7 +62,7 @@ Ouvrir [`controle-vlan-partie-c.pkt`](controle-vlan-partie-c.pkt) avec **Cisco P
 
 ## Voir aussi
 
-- [Partie A – Segmentation VLAN sur un seul switch](https://github.com/Anatole-1/packet-tracer-vlan-single-switch)
+- [Segmentation VLAN sur un seul switch](https://github.com/Anatole-1/packet-tracer-vlan-single-switch)
 
 ## Contenu du dossier
 
@@ -72,7 +72,3 @@ Ouvrir [`controle-vlan-partie-c.pkt`](controle-vlan-partie-c.pkt) avec **Cisco P
 | [`CONFIGURATIONS.md`](CONFIGURATIONS.md) | Configuration de chaque équipement et adressage des postes, en un seul fichier |
 | [`configs/`](configs/) | Une configuration brute par équipement (`.txt`) |
 | [`images/`](images/) | Captures de la topologie |
-
-## Auteur
-
-**Anatole BERNARD** – étudiant ingénieur à l'ESAIP
